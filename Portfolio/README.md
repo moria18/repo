@@ -19,6 +19,10 @@ This is a responsive and interactive personal portfolio website built by Erikefe
 Live Site: View Portfolio
 
 Source Code: GitHub Repository
+## Live site
+[click here to view my portfolio](https://github.com/moria18/repo.git)
+## GitHub Repository
+[#View the code on GitHub](https://moria18.github.io/repo/)
 
 
 
